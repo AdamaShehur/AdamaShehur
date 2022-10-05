@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Adama Shehu. i am a data scientist in making, a data adminstrator based in Africa Nigeria.
+- 👋 Hi, I’m Adama Shehu. i am a data scientist in making, a data adminstrator based in Africa.
 - 👀 I have always had an interest in data science.
 - 👀 I aim to be one of the best women in tech. 
 - 🌱 I’m currently learning data science in python, powerBI, Deep learning.
